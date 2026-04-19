@@ -1,0 +1,6 @@
+--Create Table
+CREATE TABLE students (
+    id INT,
+    name VARCHAR(50),
+    marks INT
+);
