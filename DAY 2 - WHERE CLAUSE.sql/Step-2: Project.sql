@@ -1,4 +1,4 @@
---Apply all conditions in one program: =, OR, !=, AND, >, <
+---Apply all conditions in one program: =, OR, !=, AND, >, <
 
 CREATE TABLE students (
     id INT,
