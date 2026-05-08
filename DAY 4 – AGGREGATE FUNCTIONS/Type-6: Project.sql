@@ -1,4 +1,4 @@
----Apply all types in one project.
+----Apply all types in one project.
 
 -- Create table
 CREATE TABLE employee_salary (
