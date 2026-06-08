@@ -15,8 +15,8 @@ INSERT INTO Employees(ID, Name, Salary) VALUES(4, 'Gagan', 90000.00);
 SELECT * FROM Employees
 
 --Output:
--- ID	 Name	   Salary
--- 1	 Raji	   50000.0
--- 2	 Chandra 60000.5
--- 3	 Dheshna 80000.75
--- 4	 Gagan	 90000.0
+-- ID	 Name	     Salary
+-- 1	 Raji	     50000.0
+-- 2	 Chandra   60000.5
+-- 3	 Dheshna   80000.75
+-- 4	 Gagan	   90000.0
