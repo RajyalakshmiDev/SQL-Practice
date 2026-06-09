@@ -2,21 +2,21 @@ DEF: SUM() defines calculate total sum of values.
 .....................................................
 
 -- Create table
-CREATE TABLE students (
+CREATE TABLE subjects (
     id INT,
     name VARCHAR(50),
     marks INT
 );
 
 -- Insert Data
-INSERT INTO students VALUES (1, 'Raji', 95);
-INSERT INTO students VALUES (2, 'Ravi', 80);
-INSERT INTO students VALUES (3, 'Sita', 70);
-INSERT INTO students VALUES (4, 'Kiran', 85);
+INSERT INTO subjects VALUES (1, 'Maths', 95);
+INSERT INTO subjects VALUES (2, 'Social', 80);
+INSERT INTO subjects VALUES (3, 'Science', 70);
+INSERT INTO subjects VALUES (4, 'Sanskrit', 85);
 
 --Fetch Data
 SELECT SUM(marks) AS total_marks
-FROM students;
+FROM subjectts;
 
 --Output:
 total_marks
