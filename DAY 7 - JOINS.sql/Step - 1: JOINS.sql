@@ -10,4 +10,5 @@ Then We need to know which department an employee is in so we can join them.
 Types of JOINS: 1. INNER JOIN
                 2. LEFT JOIN
                 3. Right JOIN
-                4. FULL JOIN
+                4. FULL OUTER JOIN & SELF JOIN
+                5. CROSS JOIN
